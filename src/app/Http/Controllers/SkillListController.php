@@ -91,8 +91,8 @@ class SkillListController extends Controller
                     ],
                     [
                         "id" => 14,
-                        "name" => "機械学習",
-                        "path" => "機械学習",
+                        "name" => "Matching Learning",
+                        "path" => "matching_learning",
                         "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/9dc6c90637804ed09e6bc89c8f2d3746e56b2e8c/large.jpg?1394635775"
                     ],
                     [
