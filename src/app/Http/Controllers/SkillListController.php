@@ -62,7 +62,7 @@ class SkillListController extends Controller
                     [
                         "id" => 9,
                         "name" => "Laravel",
-                        "path" => "Laravel",
+                        "path" => "laravel",
                         "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/09570f67dad547280bec35d0b5a8fd3f56a28fe9/large.jpg?1650353474"
                     ],
                     [
@@ -122,7 +122,7 @@ class SkillListController extends Controller
                     [
                         "id" => 19,
                         "name" => "Vue.js",
-                        "path" => "vue",
+                        "path" => "vuejs",
                         "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/43dc28f0ea824bbc32c526662b7e8bf96f0dbab0/large.jpg?1581479301"
                     ],
                     [
@@ -139,15 +139,15 @@ class SkillListController extends Controller
                     ],
                     [
                         "id" => 22,
-                        "name" => "Django",
-                        "path" => "Django",
-                        "image"=> "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/e55506b8e6e806f97cb9dddf0f18a8c491d9b27a/large.jpg?1513494620"
-                    ],
-                    [
-                        "id" => 23,
                         "name" => "Flutter",
                         "path" => "flutter",
                         "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/31ffe4878d6f21d6008e36f1a844719ce8ad47b4/large.jpg?1612845431"
+                    ],
+                    [
+                        "id" => 23,
+                        "name" => "Djungo",
+                        "path" => "djungo",
+                        "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/c3fb7f15df40ec4a0ca44b9ccfff3ebe93a3e52e/large.jpg?1364838101"
                     ],
                     [
                         "id" => 24,
@@ -157,57 +157,21 @@ class SkillListController extends Controller
                     ],
                     [
                         "id" => 25,
-                        "name" => "Nuxt.js",
-                        "path" => "nuxtjs",
-                        "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/5fbd843371a03d506a8279353789222506bc66b0/large.jpg?1579430246"
-                    ],
-                    [
-                        "id" => 26,
-                        "name" => "NestJS",
-                        "path" => "nestjs",
-                        "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/adad49047c1c0ebeba84f53bcb2a35c56c515971/large.jpg?1543917341"
-                    ],
-                    [
-                        "id" => 27,
-                        "name" => "Swift",
-                        "path" => "swift",
-                        "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/526b47387cd4024c3786496873c612d3c583d2f5/large.jpg?1401738498"
-                    ],
-                    [
-                        "id" => 28,
-                        "name" => "C#",
-                        "path" => "csharp",
-                        "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/92bfe56118936da685f3fc263c23857cb2b84615/large.jpg?1650353300"
-                    ],
-                    [
-                        "id" => 29,
                         "name" => "Azure",
                         "path" => "azure",
                         "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/6907e70f3d7e996601216ce028f5c17cc730a161/large.jpg?1622455169"
                     ],
                     [
-                        "id" => 30,
+                        "id" => 26,
                         "name" => "Go",
                         "path" => "go",
                         "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/e97b07d7fe8974a3b66391379ac56af49b78d50e/large.jpg?1584432037"
                     ],
                     [
-                        "id" => 31,
+                        "id" => 27,
                         "name" => "Unity",
                         "path" => "unity",
                         "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/3b3ef6e6103376aadfd37be3599b0ad97b057c12/large.jpg?1633667877"
-                    ],
-                    [
-                        "id" => 32,
-                        "name" => "マーケティング",
-                        "path" => "marketing",
-                        "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/2ac5dbb845ea3d2800a34ac58544a17559fe28bb/large.jpg?1587858194"
-                    ],
-                    [
-                        "id" => 33,
-                        "name" => "CircleCI",
-                        "path" => "circleci",
-                        "image" => "https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/48bbd3fc21d45a5ae74952b6a410d414adef6993/large.jpg?1512824596"
                     ],
                 ]
             ],
